@@ -1,0 +1,23 @@
+{
+    "name": "RunningAverageInt",
+    "keywords": "running average, moving average, average, int, integer, running average integer, moving average integer",
+    "description": "The library stores the last N individual integers in a circular buffer to calculate the running average.",
+    "authors":
+    [
+      {
+        "name": "Rick Shinners",
+        "email": "rickshinners@gmail.com",
+        "maintainer": true
+      }
+    ],
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/rickshinners/RunningAverageInt.git"
+    },
+    "version": "0.1.0",
+    "license": "MIT",
+    "frameworks": "arduino",
+    "platforms": "*",
+    "headers": "RunningAverageInt.h"
+  }

@@ -1,0 +1,16 @@
+# Syntax Colouring Map For RunningAverageInt
+
+
+# Data types (KEYWORD1)
+RunningAverageInt	KEYWORD1
+
+
+# Methods and Functions (KEYWORD2)
+add	KEYWORD2
+fill	KEYWORD2
+get	KEYWORD2
+
+# Instances (KEYWORD2)
+
+
+# Constants (LITERAL1)
